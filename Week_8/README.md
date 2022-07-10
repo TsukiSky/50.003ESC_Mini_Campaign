@@ -6,7 +6,7 @@ Consider a CSV file that stores a list of records (e.g., records of bank account
 
 ### Use Case Diagram
 
-![use_case_diagram](Week_8\use_case_diagram.png)
+![use_case_diagram](use_case_diagram.png)
 
 ### How to Run the Program
 
