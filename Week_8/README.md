@@ -10,7 +10,7 @@ Consider a CSV file that stores a list of records (e.g., records of bank account
 
 ### How to Run the Program
 
-Download the project and open it in any JAVA environment. Try to run `Main.java` to see the example of comparing `sample_file_1.csv` and `sample_file_3.csv`, and output the comparing result in `test_file_comparing_1_and_3`.
+Download this project and open it in any JAVA environment. Firstly, run `Main.java` and see the example of comparing `sample_file_1.csv` and `sample_file_3.csv` under the main directory. The comparing result is output as `test_file_comparing_1_and_3.csv`.
 
-You can also run it with specified `comparingFileA`, `comparingFileB` and `fileOutput` in terms of `Tester.test(comparingFileA, comparingFileB, fileOutput);`.
+You can also run it with specified filenames `comparingFileA.csv`, `comparingFileB.csv` and `fileOutput.csv` in terms of `Tester.test(comparingFileA.csv, comparingFileB.csv, fileOutput.csv);`.
 
