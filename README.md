@@ -39,6 +39,6 @@ For example, `java fileA.csv fileB.csv flieO.csv "\"#ID\"" "\"Account No.\"" ` w
 
 * Unit & System testing refer to [testing](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/test/README.md).
 
-* Fuzz testing refers to [fuzz testing]().
+* Fuzz testing refers to [fuzz testing](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/test/fuzz_testing/README.md).
 
   
