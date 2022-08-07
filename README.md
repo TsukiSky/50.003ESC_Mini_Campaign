@@ -37,6 +37,8 @@ For example, `java fileA.csv fileB.csv flieO.csv "\"#ID\"" "\"Account No.\"" ` w
 
 ## Testing Doc
 
-* Refer to [testing](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/test/README.md).
+* Unit & System testing refer to [testing](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/test/README.md).
+
+* Fuzz testing refers to [fuzz testing]().
 
   
