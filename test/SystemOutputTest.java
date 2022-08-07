@@ -35,15 +35,15 @@ public class SystemOutputTest {
 
     @Parameters public static Collection<Object[]> differentLength() {
         return Arrays.asList(new Object [][] {{
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\TestCaseDiffLengthA.csv", 
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\TestCaseDiffLengthB.csv", 
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\TestCaseDiffLengthActualResult.csv", 
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\TestResult.csv"},
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestCaseDiffLengthA.csv", 
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestCaseDiffLengthB.csv", 
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestCaseDiffLengthActualResult.csv", 
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestResult.csv"},
         {
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\Empty.csv",
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\Empty.csv",
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\TestCaseEmptyActualResult.csv",
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\Week_10\\TestCases\\TestResult.csv"}
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\Empty.csv",
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\Empty.csv",
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestCaseEmptyActualResult.csv",
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestResult.csv"}
         });
     }
 
