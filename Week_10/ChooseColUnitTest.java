@@ -38,6 +38,6 @@ public class ChooseColUnitTest {
         }
 
         assertTrue(e instanceof IIOException);      // An IIOException is thrown
-        assertEquals(e.getMessage(), "Unexpected Column Name: Misuse");     // an Exception message is sent
+        assertEquals(e.getMessage(), "Exception: Unexpected Column Name: Misuse");     // an Exception message is sent
     }
 }

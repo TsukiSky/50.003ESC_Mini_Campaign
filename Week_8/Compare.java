@@ -27,7 +27,7 @@ public class Compare{
                 }
             }
             if (!exist) {
-                throw new IIOException("Unexpected Column Name: " + chosen);
+                throw new IIOException("Exception: Unexpected Column Name: " + chosen);
             }
         }
         return colIndex;
@@ -100,7 +100,7 @@ public class Compare{
         } catch (IIOException e){
             return e.getMessage();
         } catch (IOException e) {
-            return "Invalid File";
+            return "Invalid Files: File names not found";
         }
     }
 }

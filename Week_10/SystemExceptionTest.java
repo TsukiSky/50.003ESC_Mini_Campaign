@@ -31,6 +31,6 @@ public class SystemExceptionTest {
 
     @Test public void ExceptionTesting() {
         String result = Compare.compare(this.fileA, this.fileB, this.fileO, this.chosenCol);
-        assertTrue(result.equals("Unexpected Column Name: \"Balance\""));
+        assertTrue(result.equals("Exception: Unexpected Column Name: \"Balance\""));
     }
 }
