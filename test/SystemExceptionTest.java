@@ -22,9 +22,9 @@ public class SystemExceptionTest {
     @Parameters public static Collection<Object[]> columnException() {
         // String chosenCol = "\"Balance\"";
         return Arrays.asList(new Object [][] {{
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestCaseExceptionA.csv", 
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestCaseExceptionB.csv",
-            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\TestCases\\TestResult.csv",
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\test_cases\\TestCaseExceptionA.csv", 
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\test_cases\\TestCaseExceptionB.csv",
+            "D:\\Term 5\\50.003 Elements of Software Construction\\TestingMiniCamp\\50.003ESC_Mini_Campaign\\test\\test_cases\\TestResult.csv",
             "\"Balance\""}
         });
     }

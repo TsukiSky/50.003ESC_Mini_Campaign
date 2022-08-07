@@ -31,7 +31,7 @@ For example, running `java FileA.csv FileB.csv FileO.csv` will compare the diffe
 
 If you want to **specify columns to be compared**, run `java fileA fileB fileO [cols]`.
 
-For example, `java fileA.csv fileB.csv flieO.csv "\"#ID\"" "\"Account No.\"" ` will only compare the difference of fileA.csv and fileB.csv in column \"#ID\" and \"Account No.\" and output the result in fileO.csv.
+For example, `java fileA.csv fileB.csv flieO.csv "\"#ID\"" "\"Account No.\"" ` will only compare the difference between fileA.csv and fileB.csv in column \"#ID\" and \"Account No.\" and output the result in fileO.csv.
 
 * `cols`: names of columns to compare.
 
