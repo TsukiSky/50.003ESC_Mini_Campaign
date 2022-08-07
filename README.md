@@ -9,7 +9,7 @@ Consider a CSV file that stores a list of records (e.g., records of bank account
 
 ### <u>User Case Diagram</u>
 
-![use_case_diagram](\\doc\\use_case_diagram.png)
+![use_case_diagram](https://raw.githubusercontent.com/TsukiSky/50.003ESC_Mini_Campaign/main/doc/use_case_diagram.png)
 
 ## How to Run the Program
 
@@ -17,7 +17,7 @@ Consider a CSV file that stores a list of records (e.g., records of bank account
 
 `javac Main.java`
 
-##### 2. run with the sample files
+##### 2. run with the sample files:
 
 `java Main`
 
@@ -33,10 +33,10 @@ If you want to **specify columns to be compared**, run `java fileA fileB fileO [
 
 For example, `java fileA.csv fileB.csv flieO.csv "\"#ID\"" "\"Account No.\"" ` will only compare the difference of fileA.csv and fileB.csv in column \"#ID\" and \"Account No.\" and output the result in fileO.csv.
 
-* `[cols]`: names of columns to compare.
+* `cols`: names of columns to compare.
 
 ## Testing Doc
 
-* Refer to [testing](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/test/README.md)
+* Refer to [testing](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/test/README.md).
 
   
