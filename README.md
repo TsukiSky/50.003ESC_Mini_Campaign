@@ -41,4 +41,5 @@ For example, `java fileA.csv fileB.csv flieO.csv "\"#ID\"" "\"Account No.\"" ` w
 
 * Fuzz testing refers to [fuzz testing](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/test/fuzz_testing/README.md).
 
+* Week 13 Group Test Report is [here](https://github.com/TsukiSky/50.003ESC_Mini_Campaign/blob/main/group_test/README.md).
   
